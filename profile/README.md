@@ -6,7 +6,6 @@
 
 - [Website](https://nyxite.app)
 - [Docs](https://nyxite.app/docs)
-- [Discussions](https://github.com/orgs/Nyxite/discussions)
 
 ---
 
@@ -40,8 +39,3 @@ It's built for people who want the convenience of Notion or Obsidian-style tools
 
 - Browse the [repositories](https://github.com/orgs/Nyxite/repositories) to find the server and client apps
 - Read the [self-hosting guide](https://nyxite.app/docs) to deploy on your own VPS
-- Found a bug or have an idea? Open an issue or start a [discussion](https://github.com/orgs/Nyxite/discussions)
-
-## Contributing
-
-Contributions are welcome. Check the [contributing guide](https://github.com/Nyxite/.github/blob/main/CONTRIBUTING.md) and look for [good first issues](https://github.com/search?q=org%3ANyxite+label%3A%22good+first+issue%22+state%3Aopen&type=issues) to get started.
