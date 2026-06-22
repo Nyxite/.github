@@ -1,8 +1,8 @@
 # Nyxite
 
-**Your notes — self-hosted, encrypted, and entirely yours.**
+**N**otes **Y**ou write & edit, e**X**change, **I**nk, **T**rack and **E**ncrypt
 
-*Notes, Yours — eXclusive, Inked, Tracked, Encrypted*
+## Your notes: self-hosted, encrypted, and entirely yours.
 
 - [Website](https://nyxite.app)
 - [Docs](https://nyxite.app/docs)
